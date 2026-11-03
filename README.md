@@ -1,1 +1,27 @@
-Ao analisar os 10 perfis de referência no GitHub, percebi uma clara padronização na construção de uma presença digital profissional no setor de Tecnologia da Informação. O elemento comum de maior impacto foi o uso de um Profile README direto e funcional, equipado com badges visuais de tecnologias e seções claras de objetivos e projetos em destaque. Além disso, os profissionais de referência mantêm os repositórios fixados (pinned) padronizados com nomes descritivos em kebab-case e documentados por arquivos README.md completos — contendo desde a arquitetura e fluxogramas até instruções passo a passo para execução local. Outra boa prática marcante observada foi a presença constante de arquivos de licença de código aberto (como MIT) e a inclusão correta de arquivos .gitignore para garantir a limpeza do código enviado. Espelhando-me nessas referências, estruturei meu perfil VitorKng organizando meus projetos do 2º semestre do curso de Análise e Desenvolvimento de Sistemas (como trabalhos de linguagem C e modelagem de banco de dados MySQL), adicionando documentação técnica padronizada, instruções de execução e destaques visuais para apresentar minhas competências práticas de forma acessível a recrutadores e pares.
+# Olá, eu sou o Vitor Oliveira! 👋
+
+ Graduando do **2º semestre de Análise e Desenvolvimento de Sistemas (ADS)**.  
+Atualmente focado no estudo de **Estrutura de Dados em C**, **Modelagem Relacional com MySQL**, **Arquitetura de Banco de Dados** e **Engenharia de Prompt**.
+
+---
+
+### 🧰 Tech Stack & Ferramentas
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44D26?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📌 Projetos em Destaque
+- 📊 **[Modelagem_de_Banco_de_Dados_SGBD](./):** Modelagem relacional, DDL/DML/DQL e diagramas conceituais brModelo.
+- ⚡ **[Algoritimos_e_Pensamento_Computacional](./):** Resolução de algoritmos, vetores, matrizes e lógica em linguagem C.
+- 🤝 **[desafio-colaborativo-git](./):** Projeto de controle de versão com Git, gerenciamento de branches e Pull Requests.
+
+---
+
+### 📫 Conecte-se comigo
+- 💼 **LinkedIn:** [Seu Perfil do LinkedIn](#)
+- 📧 **E-mail:** `seu-email@exemplo.com`
