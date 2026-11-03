@@ -23,5 +23,5 @@ Atualmente focado no estudo de **Estrutura de Dados em C**, **Modelagem Relacion
 ---
 
 ### 📫 Conecte-se comigo
-- 💼 **LinkedIn:** [Seu Perfil do LinkedIn](#)
-- 📧 **E-mail:** `seu-email@exemplo.com`
+- 💼 **LinkedIn:** [www.linkedin.com/in/vitor-oliveira-2318303b5](#)
+- 📧 **E-mail:** `vitoroliveiraalves06@gmail.com`
