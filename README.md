@@ -23,6 +23,11 @@ Atualmente focado no estudo de **Estrutura de Dados em C**, **Design Profissiona
 
 ---
 
+### 🫡 Objetivos
+- Desenvolver projetos práticos.
+- Aprimorar meus conhecimentos em programação.
+- Aprender novas tecnologias e ferramentas.
+
 ### 📫 Conecte-se comigo
 - 💼 **LinkedIn:** [www.linkedin.com/in/vitor-oliveira-2318303b5](#)
 - 📧 **E-mail:** `vitoroliveiraalves06@gmail.com`
