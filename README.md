@@ -1,7 +1,7 @@
 # Olá, eu sou o Vitor Oliveira! 👋
 
  Graduando do **2º semestre de Análise e Desenvolvimento de Sistemas (ADS)**.  
-Atualmente focado no estudo de **Estrutura de Dados em C**, **Modelagem Relacional com MySQL**, **Arquitetura de Banco de Dados**, **Desenvolvimento FrontEnd** e **Engenharia de Prompt**.
+Atualmente focado no estudo de **Estrutura de Dados em C**, **Design Profissional**, **Modelagem Relacional com MySQL**, **Arquitetura de Banco de Dados**, **Desenvolvimento FrontEnd** e **Engenharia de Prompt**.
 
 ---
 
