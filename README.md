@@ -16,7 +16,7 @@ Atualmente focado no estudo de **Estrutura de Dados em C**, **Design Profissiona
 ---
 
 ### 📌 Projetos em Destaque
-- 👾 **[Animals_Pet](./):** Desenvolvimento FrontEnd de um site simples de PetShop, utilizando VSCode com as fases de index.html e css da estrutura do site
+- 👾 **[Animals_Pet](./):** Desenvolvimento FrontEnd de um site simples de PetShop, utilizando VSCode com as fases de index.html e css da estrutura do site.
 - 📊 **[Modelagem_de_Banco_de_Dados_SGBD](./):** Modelagem relacional, DDL/DML/DQL e diagramas conceituais brModelo.
 - ⚡ **[Algoritimos_e_Pensamento_Computacional](./):** Resolução de algoritmos, vetores, matrizes e lógica em linguagem C.
 - 🤝 **[desafio-colaborativo-git](./):** Projeto de controle de versão com Git, gerenciamento de branches e Pull Requests.
