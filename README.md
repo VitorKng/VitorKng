@@ -24,7 +24,7 @@ Atualmente focado no estudo de **Estrutura de Dados em C**, **Design Profissiona
 ---
 
 ### 🫡 Objetivos
-- Desenvolver projetos práticos.
+- Desenvolver projetos com praticidade.
 - Aprimorar meus conhecimentos em programação.
 - Aprender novas tecnologias e ferramentas.
 
