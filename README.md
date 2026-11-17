@@ -32,4 +32,4 @@ Atualmente focado no estudo de **Estrutura de Dados em C**, **Design Profissiona
 
 ### 📫 Conecte-se comigo
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/vitor-oliveira-alvess-2318303b5](https://www.linkedin.com/in/vitor-oliveira-alvess-2318303b5)(#)
-- 📧 **E-mail:** [`vitoroliveiraalves06@gmail.com`]
+- 📧 **E-mail:** vitoroliveiraalves06@gmail.com
